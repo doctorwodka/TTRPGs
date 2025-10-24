@@ -1,0 +1,1322 @@
+Log:
+[INFO] 	Including stylesheet: css-settings-manager
+[INFO] 	Including stylesheet: source-plugin-callout-manager-stylesheet
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0,"message":"Classes done","subMessage":"..."}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0,"message":"Classes done","subMessage":"..."}
+[INFO] 	Including stylesheet: css-settings-manager
+[INFO] 	Including stylesheet: source-plugin-callout-manager-stylesheet
+Progress	{"fraction":0.07692307692307693,"message":"Initialize Export","subMessage":"Loading asset: other-plugins.css"}
+Progress	{"fraction":0.15384615384615385,"message":"Initialize Export","subMessage":"Loading asset: theme.css"}
+Progress	{"fraction":0.23076923076923078,"message":"Initialize Export","subMessage":"Loading asset: mathjax.css"}
+Progress	{"fraction":0.3076923076923077,"message":"Initialize Export","subMessage":"Loading asset: favicon.png"}
+Progress	{"fraction":0.38461538461538464,"message":"Initialize Export","subMessage":"Loading asset: custom-head-content-content.html"}
+Progress	{"fraction":0.46153846153846156,"message":"Initialize Export","subMessage":"Loading asset: global-variable-styles.css"}
+Progress	{"fraction":0.5384615384615384,"message":"Initialize Export","subMessage":"Loading asset: snippets.css"}
+Progress	{"fraction":0.6153846153846154,"message":"Initialize Export","subMessage":"Loading asset: supported-plugins.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Initialize Export","subMessage":"Loading asset: obsidian.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0.6923076923076923,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0.6923076923076923,"message":"Classes done","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0.6923076923076923,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0.6923076923076923,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0.6923076923076923,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0.6923076923076923,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0.6923076923076923,"message":"Classes done","subMessage":"..."}
+[INFO] No search-index.json exists. Creating new index.	{}
+[INFO] 	Including stylesheet: css-settings-manager
+[INFO] 	Including stylesheet: source-plugin-callout-manager-stylesheet
+Progress	{"fraction":0.0017901897601145722,"message":"Initialize Export","subMessage":"Loading asset: other-plugins.css"}
+Progress	{"fraction":0.0035803795202291443,"message":"Initialize Export","subMessage":"Loading asset: theme.css"}
+Progress	{"fraction":0.0053705692803437165,"message":"Initialize Export","subMessage":"Loading asset: mathjax.css"}
+Progress	{"fraction":0.007160759040458289,"message":"Initialize Export","subMessage":"Loading asset: favicon.png"}
+Progress	{"fraction":0.00895094880057286,"message":"Initialize Export","subMessage":"Loading asset: custom-head-content-content.html"}
+Progress	{"fraction":0.010741138560687433,"message":"Initialize Export","subMessage":"Loading asset: global-variable-styles.css"}
+Progress	{"fraction":0.012531328320802004,"message":"Initialize Export","subMessage":"Loading asset: snippets.css"}
+Progress	{"fraction":0.014321518080916577,"message":"Initialize Export","subMessage":"Loading asset: supported-plugins.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Initialize Export","subMessage":"Loading asset: obsidian.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0.016111707841031147,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0.016111707841031147,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0.016111707841031147,"message":"Collecting valid classes","subMessage":"Scanning: html-export-running"}
+Progress	{"fraction":0.016111707841031147,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0.016111707841031147,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0.016111707841031147,"message":"Classes done","subMessage":"..."}
+[INFO] No search-index.json exists. Creating new index.	{}
+Progress	{"fraction":0.016827783745076978,"message":"Initializing Document","subMessage":"Attachments/26.jpg"}
+Progress	{"fraction":0.017543859649122806,"message":"Initializing Document","subMessage":"Attachments/A.png"}
+Progress	{"fraction":0.018259935553168637,"message":"Initializing Document","subMessage":"Attachments/ASPER.png"}
+Progress	{"fraction":0.018976011457214465,"message":"Initializing Document","subMessage":"Attachments/ASPER_comm.png"}
+Progress	{"fraction":0.019692087361260296,"message":"Initializing Document","subMessage":"Attachments/cass.png"}
+Progress	{"fraction":0.020408163265306124,"message":"Initializing Document","subMessage":"Attachments/colette.png"}
+Progress	{"fraction":0.021124239169351956,"message":"Initializing Document","subMessage":"Attachments/cv01.png"}
+Progress	{"fraction":0.021840315073397783,"message":"Initializing Document","subMessage":"Attachments/fitz.png"}
+Progress	{"fraction":0.022556390977443615,"message":"Initializing Document","subMessage":"Attachments/florian.png"}
+Progress	{"fraction":0.023272466881489443,"message":"Initializing Document","subMessage":"Attachments/kaspar.png"}
+Progress	{"fraction":0.023988542785535274,"message":"Initializing Document","subMessage":"Attachments/konbini.png"}
+Progress	{"fraction":0.0247046186895811,"message":"Initializing Document","subMessage":"Attachments/leo.png"}
+Progress	{"fraction":0.025420694593626933,"message":"Initializing Document","subMessage":"Attachments/lyss.png"}
+Progress	{"fraction":0.02613677049767276,"message":"Initializing Document","subMessage":"Attachments/nivaya.png"}
+Progress	{"fraction":0.026852846401718592,"message":"Initializing Document","subMessage":"Attachments/ripley.png"}
+Progress	{"fraction":0.02756892230576442,"message":"Initializing Document","subMessage":"Attachments/saki_almado.png"}
+Progress	{"fraction":0.02828499820981025,"message":"Initializing Document","subMessage":"Attachments/thea.png"}
+Progress	{"fraction":0.02900107411385608,"message":"Initializing Document","subMessage":"Attachments/vintovka.png"}
+Progress	{"fraction":0.029717150017901907,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Aeryn-Vox.md"}
+Progress	{"fraction":0.03043322592194773,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Drav'kyn.md"}
+Progress	{"fraction":0.03114930182599356,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Eliathe.md"}
+Progress	{"fraction":0.03186537773003938,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Ithex.md"}
+Progress	{"fraction":0.03258145363408521,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Kael’Zar.md"}
+Progress	{"fraction":0.03329752953813104,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Kelyx.md"}
+Progress	{"fraction":0.03401360544217686,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Myrrhex.md"}
+Progress	{"fraction":0.03472968134622269,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/N’Zhereth.md"}
+Progress	{"fraction":0.035445757250268516,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Quorrax.md"}
+Progress	{"fraction":0.03616183315431434,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Solenne.md"}
+Progress	{"fraction":0.03687790905836017,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Tarellon.md"}
+Progress	{"fraction":0.03759398496240599,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Tharos.md"}
+Progress	{"fraction":0.03831006086645182,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Vel’Taro.md"}
+Progress	{"fraction":0.03902613677049765,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Veyra.md"}
+Progress	{"fraction":0.039742212674543476,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Xalaith.md"}
+Progress	{"fraction":0.040458288578589297,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Zarn.md"}
+Progress	{"fraction":0.041174364482635124,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Ashen Veil.md"}
+Progress	{"fraction":0.04189044038668095,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Emperor Ascendant.md"}
+Progress	{"fraction":0.04260651629072678,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Hollow Chorus.md"}
+Progress	{"fraction":0.04332259219477261,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Living Throne.md"}
+Progress	{"fraction":0.04403866809881843,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Pulse Unending.md"}
+Progress	{"fraction":0.044754744002864257,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Quiet Forge.md"}
+Progress	{"fraction":0.045470819906910084,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Silent Flow.md"}
+Progress	{"fraction":0.04618689581095591,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Steel Spire.md"}
+Progress	{"fraction":0.04690297171500173,"message":"Initializing Document","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Vessel of Intent.md"}
+Progress	{"fraction":0.04761904761904756,"message":"Initializing Document","subMessage":"Misc/Gods/Miunctios.md"}
+Progress	{"fraction":0.04833512352309339,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Aetherion Corporation.md"}
+Progress	{"fraction":0.04905119942713922,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Concord of Aedryn.md"}
+Progress	{"fraction":0.049767275331185044,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Hekath.md"}
+Progress	{"fraction":0.050483351235230865,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Hollow Stars.md"}
+Progress	{"fraction":0.05119942713927669,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Reimap.md"}
+Progress	{"fraction":0.05191550304332252,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Scarlet Dominion.md"}
+Progress	{"fraction":0.05263157894736835,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Solara Imperium.md"}
+Progress	{"fraction":0.05334765485141417,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Vasen Empire.md"}
+Progress	{"fraction":0.05406373075546,"message":"Initializing Document","subMessage":"Misc/Groups/Empires and confederations/Voquari Ascendancy.md"}
+Progress	{"fraction":0.054779806659505825,"message":"Initializing Document","subMessage":"Misc/Aedryn Accords.md"}
+Progress	{"fraction":0.05549588256355165,"message":"Initializing Document","subMessage":"Misc/Asphalt Mystics.md"}
+Progress	{"fraction":0.05621195846759748,"message":"Initializing Document","subMessage":"Misc/Awakening.md"}
+Progress	{"fraction":0.0569280343716433,"message":"Initializing Document","subMessage":"Misc/Cultivation.md"}
+Progress	{"fraction":0.05764411027568914,"message":"Initializing Document","subMessage":"Misc/Doctorinecasting.md"}
+Progress	{"fraction":0.058360186179734964,"message":"Initializing Document","subMessage":"Misc/Echoforging.md"}
+Progress	{"fraction":0.05907626208378079,"message":"Initializing Document","subMessage":"Misc/Infosphere.md"}
+Progress	{"fraction":0.05979233798782661,"message":"Initializing Document","subMessage":"Misc/Liturgical Communion.md"}
+Progress	{"fraction":0.06050841389187244,"message":"Initializing Document","subMessage":"Misc/Players.base"}
+Progress	{"fraction":0.06122448979591827,"message":"Initializing Document","subMessage":"Misc/Possible Misinformation.md"}
+Progress	{"fraction":0.0619405656999641,"message":"Initializing Document","subMessage":"Misc/Technomancy.md"}
+Progress	{"fraction":0.06265664160400992,"message":"Initializing Document","subMessage":"Misc/Threadbinding.md"}
+Progress	{"fraction":0.06337271750805575,"message":"Initializing Document","subMessage":"Misc/Tricaelus Conflict.md"}
+Progress	{"fraction":0.06408879341210158,"message":"Initializing Document","subMessage":"Misc/Vacuum Rites.md"}
+Progress	{"fraction":0.0648048693161474,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Ko.md"}
+Progress	{"fraction":0.06552094522019322,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Naeri Astana.md"}
+Progress	{"fraction":0.06623702112423906,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Raz.md"}
+Progress	{"fraction":0.06695309702828488,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Shūjiǎo.md"}
+Progress	{"fraction":0.0676691729323307,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Siryu.md"}
+Progress	{"fraction":0.06838524883637653,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Velin Desat.md"}
+Progress	{"fraction":0.06910132474042235,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Amalthea  Ripley.md"}
+Progress	{"fraction":0.06981740064446819,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Cassandra Ripley.md"}
+Progress	{"fraction":0.07053347654851401,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Colette Ripley.md"}
+Progress	{"fraction":0.07124955245255983,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Fitzwilliam Ripley.md"}
+Progress	{"fraction":0.07196562835660567,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Florian Ripley.md"}
+Progress	{"fraction":0.07268170426065149,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Leonitus Ripley.md"}
+Progress	{"fraction":0.07339778016469732,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Lysistrata Ripley.md"}
+Progress	{"fraction":0.07411385606874314,"message":"Initializing Document","subMessage":"NPCs/Epitaph Protocol NPCs/Zebufera's Last Doctrine.md"}
+Progress	{"fraction":0.07482993197278896,"message":"Initializing Document","subMessage":"NPCs/Solaran Emperor/Emperor Khael.md"}
+Progress	{"fraction":0.0755460078768348,"message":"Initializing Document","subMessage":"NPCs/Solaran Emperor/Solaran Emperor.md"}
+Progress	{"fraction":0.07626208378088062,"message":"Initializing Document","subMessage":"NPCs/Arlen Vaest.md"}
+Progress	{"fraction":0.07697815968492645,"message":"Initializing Document","subMessage":"NPCs/Kethis Valorr.md"}
+Progress	{"fraction":0.07769423558897227,"message":"Initializing Document","subMessage":"NPCs/Saria Vale.md"}
+Progress	{"fraction":0.0784103114930181,"message":"Initializing Document","subMessage":"NPCs/Vaelos.md"}
+Progress	{"fraction":0.07912638739706393,"message":"Initializing Document","subMessage":"NPCs/Veltharion.md"}
+Progress	{"fraction":0.07984246330110975,"message":"Initializing Document","subMessage":"NPCs/Vorric Dain.md"}
+Progress	{"fraction":0.08055853920515557,"message":"Initializing Document","subMessage":"PCs (Active)/Future/A Monday.md"}
+Progress	{"fraction":0.0812746151092014,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Hez Monday.md"}
+Progress	{"fraction":0.08199069101324723,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Jay Monday.md"}
+Progress	{"fraction":0.08270676691729306,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Kaspar.md"}
+Progress	{"fraction":0.08342284282133888,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Konbini-chan.md"}
+Progress	{"fraction":0.0841389187253847,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Thomas Monday.md"}
+Progress	{"fraction":0.08485499462943054,"message":"Initializing Document","subMessage":"PCs (Active)/Future/Vintovka.md"}
+Progress	{"fraction":0.08557107053347636,"message":"Initializing Document","subMessage":"PCs (Active)/A Thursday.md"}
+Progress	{"fraction":0.0862871464375222,"message":"Initializing Document","subMessage":"PCs (Active)/Almado Alquinst.md"}
+Progress	{"fraction":0.08700322234156802,"message":"Initializing Document","subMessage":"PCs (Active)/ASPER.md"}
+Progress	{"fraction":0.08771929824561384,"message":"Initializing Document","subMessage":"PCs (Active)/CV01.md"}
+Progress	{"fraction":0.08843537414965967,"message":"Initializing Document","subMessage":"PCs (Active)/Nivaya Camacho.md"}
+Progress	{"fraction":0.08915145005370549,"message":"Initializing Document","subMessage":"PCs (Active)/Ripley.md"}
+Progress	{"fraction":0.08986752595775133,"message":"Initializing Document","subMessage":"PCs (Active)/The 26 Laws of Power.md"}
+Progress	{"fraction":0.09058360186179715,"message":"Initializing Document","subMessage":"Places/Drexil System/Drexil System.md"}
+Progress	{"fraction":0.09129967776584297,"message":"Initializing Document","subMessage":"Places/Drexil System/Kiliv-VI.md"}
+Progress	{"fraction":0.0920157536698888,"message":"Initializing Document","subMessage":"Places/Drexil System/Thorne.md"}
+Progress	{"fraction":0.09273182957393462,"message":"Initializing Document","subMessage":"Places/Nyx-Cadion System/Nyx-Cadion System.md"}
+Progress	{"fraction":0.09344790547798044,"message":"Initializing Document","subMessage":"Places/Orphos-9 System/Orphos-9 System.md"}
+Progress	{"fraction":0.09416398138202628,"message":"Initializing Document","subMessage":"Places/Ship/Rusty Curiosity.md"}
+Progress	{"fraction":0.0948800572860721,"message":"Initializing Document","subMessage":"Places/Tiraxis System/Tiraxis System.md"}
+Progress	{"fraction":0.09559613319011794,"message":"Initializing Document","subMessage":"Places/Vorrakis System/Vorrakis System.md"}
+Progress	{"fraction":0.09631220909416376,"message":"Initializing Document","subMessage":"Places/Zelthar System/Zelthar System.md"}
+Progress	{"fraction":0.09702828499820958,"message":"Initializing Document","subMessage":"Places/Aedryn (Planet).md"}
+Progress	{"fraction":0.09774436090225541,"message":"Initializing Document","subMessage":"Places/Aedryn (Star).md"}
+Progress	{"fraction":0.09846043680630123,"message":"Initializing Document","subMessage":"Places/Aellalone.md"}
+Progress	{"fraction":0.09917651271034707,"message":"Initializing Document","subMessage":"Places/Ephraem’s Reach.md"}
+Progress	{"fraction":0.09989258861439289,"message":"Initializing Document","subMessage":"Places/Solara.md"}
+Progress	{"fraction":0.10060866451843871,"message":"Initializing Document","subMessage":"Places/Sòng Tiān Temple.md"}
+Progress	{"fraction":0.10132474042248454,"message":"Initializing Document","subMessage":"Places/Tharkun-Zar.md"}
+Progress	{"fraction":0.10204081632653036,"message":"Initializing Document","subMessage":"Places/The Serenade.md"}
+Progress	{"fraction":0.1027568922305762,"message":"Initializing Document","subMessage":"Sessions/Epitaph Protocol/Epitaph Protocol.md"}
+Progress	{"fraction":0.10347296813462202,"message":"Initializing Document","subMessage":"Sessions/Epitaph Protocol/Session 1.md"}
+Progress	{"fraction":0.10418904403866784,"message":"Initializing Document","subMessage":"Sessions/The Red Tally Campaign/The Red Tally Campaign.md"}
+Progress	{"fraction":0.10490511994271368,"message":"Initializing Document","subMessage":"Homepage.md"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0.10490511994271368,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0.10490511994271368,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0.10490511994271368,"message":"Collecting valid classes","subMessage":"Scanning: html-export-running"}
+Progress	{"fraction":0.10490511994271368,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0.10490511994271368,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0.10490511994271368,"message":"Classes done","subMessage":"..."}
+Progress	{"fraction":0.11206587898317195,"message":"Building Webpages","subMessage":"PCs (Active)/The 26 Laws of Power.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.11922663802363023,"message":"Building Webpages","subMessage":"PCs (Active)/ASPER.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.12638739706408852,"message":"Building Webpages","subMessage":"Sessions/Epitaph Protocol/Session 1.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.13354815610454682,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Zebufera's Last Doctrine.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.1407089151450051,"message":"Building Webpages","subMessage":"PCs (Active)/A Thursday.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.1478696741854634,"message":"Building Webpages","subMessage":"Attachments/A.png"}
+Progress	{"fraction":0.15503043322592167,"message":"Building Webpages","subMessage":"Attachments/26.jpg"}
+Progress	{"fraction":0.16219119226637996,"message":"Building Webpages","subMessage":"PCs (Active)/CV01.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.16935195130683825,"message":"Building Webpages","subMessage":"Attachments/cv01.png"}
+Progress	{"fraction":0.17651271034729654,"message":"Building Webpages","subMessage":"Sessions/Epitaph Protocol/Epitaph Protocol.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.18367346938775483,"message":"Building Webpages","subMessage":"PCs (Active)/Almado Alquinst.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.19083422842821313,"message":"Building Webpages","subMessage":"Homepage.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.19799498746867142,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Lysistrata Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.20515574650912968,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Leonitus Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.21231650554958797,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Fitzwilliam Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.21947726459004627,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Cassandra Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.22663802363050456,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Amalthea  Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.23379878267096285,"message":"Building Webpages","subMessage":"Attachments/lyss.png"}
+Progress	{"fraction":0.24095954171142114,"message":"Building Webpages","subMessage":"Attachments/leo.png"}
+Progress	{"fraction":0.24812030075187944,"message":"Building Webpages","subMessage":"PCs (Active)/Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.25528105979233773,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Florian Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.262441818832796,"message":"Building Webpages","subMessage":"Attachments/florian.png"}
+Progress	{"fraction":0.2696025778732543,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/Colette Ripley.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.2767633369137126,"message":"Building Webpages","subMessage":"Attachments/colette.png"}
+Progress	{"fraction":0.28392409595417084,"message":"Building Webpages","subMessage":"Attachments/fitz.png"}
+Progress	{"fraction":0.29108485499462916,"message":"Building Webpages","subMessage":"Attachments/cass.png"}
+Progress	{"fraction":0.2982456140350874,"message":"Building Webpages","subMessage":"Attachments/thea.png"}
+Progress	{"fraction":0.30540637307554575,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Siryu.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.312567132116004,"message":"Building Webpages","subMessage":"PCs (Active)/Nivaya Camacho.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.31972789115646233,"message":"Building Webpages","subMessage":"Attachments/nivaya.png"}
+Progress	{"fraction":0.3268886501969206,"message":"Building Webpages","subMessage":"Attachments/ripley.png"}
+Progress	{"fraction":0.33404940923737886,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Kaspar.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.3412101682778372,"message":"Building Webpages","subMessage":"Attachments/kaspar.png"}
+Progress	{"fraction":0.34837092731829544,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Vintovka.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.35553168635875376,"message":"Building Webpages","subMessage":"Attachments/vintovka.png"}
+Progress	{"fraction":0.362692445399212,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Konbini-chan.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.36985320443967035,"message":"Building Webpages","subMessage":"Attachments/konbini.png"}
+Progress	{"fraction":0.3770139634801286,"message":"Building Webpages","subMessage":"Misc/Players.base"}
+Progress	{"fraction":0.3841747225205869,"message":"Building Webpages","subMessage":"Attachments/saki_almado.png"}
+Progress	{"fraction":0.3913354815610452,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Thomas Monday.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.39849624060150346,"message":"Building Webpages","subMessage":"Sessions/The Red Tally Campaign/The Red Tally Campaign.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4056569996419618,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Jay Monday.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.41281775868242004,"message":"Building Webpages","subMessage":"PCs (Active)/Future/Hez Monday.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.41997851772287836,"message":"Building Webpages","subMessage":"PCs (Active)/Future/A Monday.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.42713927676333663,"message":"Building Webpages","subMessage":"Attachments/ASPER_comm.png"}
+Progress	{"fraction":0.4343000358037949,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Velin Desat.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4414607948442532,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Voquari Ascendancy.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4486215538847115,"message":"Building Webpages","subMessage":"Misc/Asphalt Mystics.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4557823129251698,"message":"Building Webpages","subMessage":"Misc/Technomancy.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.46294307196562806,"message":"Building Webpages","subMessage":"Misc/Infosphere.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4701038310060864,"message":"Building Webpages","subMessage":"Misc/Possible Misinformation.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.47726459004654465,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Aeryn-Vox.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.48442534908700297,"message":"Building Webpages","subMessage":"Misc/Tricaelus Conflict.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.49158610812746123,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Hollow Stars.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.4987468671679195,"message":"Building Webpages","subMessage":"Places/Drexil System/Drexil System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5059076262083778,"message":"Building Webpages","subMessage":"Places/Drexil System/Thorne.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5130683852488361,"message":"Building Webpages","subMessage":"Places/Drexil System/Kiliv-VI.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5202291442892943,"message":"Building Webpages","subMessage":"Places/Ship/Rusty Curiosity.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5273899033297527,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Shūjiǎo.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.534550662370211,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Raz.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5417114214106692,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Ko.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5488721804511275,"message":"Building Webpages","subMessage":"NPCs/Epitaph Protocol NPCs/ASPER NPCs/Naeri Astana.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5560329394915858,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Concord of Aedryn.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5631936985320442,"message":"Building Webpages","subMessage":"Places/Sòng Tiān Temple.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5703544575725024,"message":"Building Webpages","subMessage":"Misc/Echoforging.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5775152166129607,"message":"Building Webpages","subMessage":"Misc/Vacuum Rites.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.584675975653419,"message":"Building Webpages","subMessage":"Misc/Threadbinding.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5918367346938772,"message":"Building Webpages","subMessage":"Misc/Doctorinecasting.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.5989974937343355,"message":"Building Webpages","subMessage":"NPCs/Solaran Emperor/Solaran Emperor.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6061582527747938,"message":"Building Webpages","subMessage":"NPCs/Solaran Emperor/Emperor Khael.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6133190118152522,"message":"Building Webpages","subMessage":"Misc/Cultivation.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6204797708557104,"message":"Building Webpages","subMessage":"Misc/Liturgical Communion.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6276405298961687,"message":"Building Webpages","subMessage":"Misc/Awakening.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.634801288936627,"message":"Building Webpages","subMessage":"Places/Aedryn (Star).md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6419620479770852,"message":"Building Webpages","subMessage":"Places/Solara.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6491228070175435,"message":"Building Webpages","subMessage":"Places/Tharkun-Zar.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6562835660580019,"message":"Building Webpages","subMessage":"Attachments/ASPER.png"}
+Progress	{"fraction":0.6634443250984602,"message":"Building Webpages","subMessage":"Places/Ephraem’s Reach.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6706050841389184,"message":"Building Webpages","subMessage":"Places/Zelthar System/Zelthar System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6777658431793767,"message":"Building Webpages","subMessage":"Places/Vorrakis System/Vorrakis System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.684926602219835,"message":"Building Webpages","subMessage":"Places/Tiraxis System/Tiraxis System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6920873612602932,"message":"Building Webpages","subMessage":"Places/Orphos-9 System/Orphos-9 System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.6992481203007516,"message":"Building Webpages","subMessage":"Places/Nyx-Cadion System/Nyx-Cadion System.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7064088793412099,"message":"Building Webpages","subMessage":"NPCs/Veltharion.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7135696383816682,"message":"Building Webpages","subMessage":"Misc/Aedryn Accords.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7207303974221264,"message":"Building Webpages","subMessage":"Places/Aedryn (Planet).md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7278911564625847,"message":"Building Webpages","subMessage":"Places/Aellalone.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.735051915503043,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Solara Imperium.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7422126745435014,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Living Throne.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7493734335839596,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Silent Flow.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7565341926244179,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Quiet Forge.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7636949516648762,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Pulse Unending.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7708557107053344,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Emperor Ascendant.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7780164697457927,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Vessel of Intent.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7851772287862511,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Hollow Chorus.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7923379878267094,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Ashen Veil.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7994987468671676,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of the Solara Imperium/The Steel Spire.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8066595059076259,"message":"Building Webpages","subMessage":"Misc/Gods/Miunctios.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8138202649480842,"message":"Building Webpages","subMessage":"Places/The Serenade.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8209810239885424,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Vasen Empire.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8281417830290008,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Tharos.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8353025420694591,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Myrrhex.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8424633011099174,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Aetherion Corporation.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8496240601503756,"message":"Building Webpages","subMessage":"NPCs/Vorric Dain.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8567848191908339,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Reimap.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8639455782312923,"message":"Building Webpages","subMessage":"NPCs/Saria Vale.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8711063372717505,"message":"Building Webpages","subMessage":"NPCs/Kethis Valorr.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8782670963122088,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Hekath.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8854278553526671,"message":"Building Webpages","subMessage":"Misc/Groups/Empires and confederations/Scarlet Dominion.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8925886143931254,"message":"Building Webpages","subMessage":"NPCs/Vaelos.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.8997493734335836,"message":"Building Webpages","subMessage":"NPCs/Arlen Vaest.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.906910132474042,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Xalaith.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9140708915145003,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Quorrax.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9212316505549586,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Ithex.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9283924095954169,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Kael’Zar.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9355531686358752,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Vel’Taro.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9427139276763334,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Eliathe.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9498746867167918,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Zarn.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9570354457572501,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Veyra.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9641962047977084,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/N’Zhereth.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9713569638381666,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Solenne.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9785177228786249,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Drav'kyn.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9856784819190832,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Kelyx.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.9928392409595415,"message":"Building Webpages","subMessage":"Misc/Gods/Gods of Concord of Aedryn/Tarellon.md"}
+[INFO] 	Waiting for all sections to be counted...
+[INFO] 	Waiting for transclusions to render...
+[INFO] 	Waiting for generic plugins to render...
+Progress	{"fraction":0.7388755662136955,"message":"Saving files to disk","subMessage":"..."}
+Progress	{"fraction":0.7442046362909671,"message":"Saving files to disk","subMessage":"Saved: 26.jpg"}
+Progress	{"fraction":0.7495337063682386,"message":"Saving files to disk","subMessage":"Saved: a.png"}
+Progress	{"fraction":0.7548627764455101,"message":"Saving files to disk","subMessage":"Saved: asper.png"}
+Progress	{"fraction":0.7601918465227816,"message":"Saving files to disk","subMessage":"Saved: asper_comm.png"}
+Progress	{"fraction":0.7655209166000532,"message":"Saving files to disk","subMessage":"Saved: cass.png"}
+Progress	{"fraction":0.7708499866773246,"message":"Saving files to disk","subMessage":"Saved: colette.png"}
+Progress	{"fraction":0.7761790567545962,"message":"Saving files to disk","subMessage":"Saved: cv01.png"}
+Progress	{"fraction":0.7815081268318677,"message":"Saving files to disk","subMessage":"Saved: fitz.png"}
+Progress	{"fraction":0.7868371969091392,"message":"Saving files to disk","subMessage":"Saved: florian.png"}
+Progress	{"fraction":0.7921662669864107,"message":"Saving files to disk","subMessage":"Saved: kaspar.png"}
+Progress	{"fraction":0.7974953370636823,"message":"Saving files to disk","subMessage":"Saved: konbini.png"}
+Progress	{"fraction":0.8028244071409537,"message":"Saving files to disk","subMessage":"Saved: leo.png"}
+Progress	{"fraction":0.8081534772182253,"message":"Saving files to disk","subMessage":"Saved: lyss.png"}
+Progress	{"fraction":0.8134825472954967,"message":"Saving files to disk","subMessage":"Saved: nivaya.png"}
+Progress	{"fraction":0.8188116173727683,"message":"Saving files to disk","subMessage":"Saved: ripley.png"}
+Progress	{"fraction":0.8241406874500399,"message":"Saving files to disk","subMessage":"Saved: saki_almado.png"}
+Progress	{"fraction":0.8294697575273113,"message":"Saving files to disk","subMessage":"Saved: thea.png"}
+Progress	{"fraction":0.8347988276045829,"message":"Saving files to disk","subMessage":"Saved: vintovka.png"}
+Progress	{"fraction":0.8401278976818544,"message":"Saving files to disk","subMessage":"Saved: graph-wasm.wasm"}
+Progress	{"fraction":0.8454569677591259,"message":"Saving files to disk","subMessage":"Saved: jr2pfb.jpg"}
+Progress	{"fraction":0.8507860378363974,"message":"Saving files to disk","subMessage":"Saved: 94f2f163d4b698242fef.otf"}
+Progress	{"fraction":0.856115107913669,"message":"Saving files to disk","subMessage":"Saved: 72505e6a122c6acd5471.woff2"}
+Progress	{"fraction":0.8614441779909404,"message":"Saving files to disk","subMessage":"Saved: 2d5198822ab091ce4305.woff2"}
+Progress	{"fraction":0.866773248068212,"message":"Saving files to disk","subMessage":"Saved: c8ba52b05a9ef10f4758.woff2"}
+Progress	{"fraction":0.8721023181454834,"message":"Saving files to disk","subMessage":"Saved: cb10ffd7684cd9836a05.woff2"}
+Progress	{"fraction":0.877431388222755,"message":"Saving files to disk","subMessage":"Saved: 293fd13dbca5a3e450ef.woff2"}
+Progress	{"fraction":0.8827604583000265,"message":"Saving files to disk","subMessage":"Saved: 085cb93e613ba3d40d2b.woff2"}
+Progress	{"fraction":0.888089528377298,"message":"Saving files to disk","subMessage":"Saved: b5f0f109bc88052d4000.woff2"}
+Progress	{"fraction":0.8934185984545695,"message":"Saving files to disk","subMessage":"Saved: cbe0ae49c52c920fd563.woff2"}
+Progress	{"fraction":0.8987476685318411,"message":"Saving files to disk","subMessage":"Saved: 535a6cf662596b3bd6a6.woff2"}
+Progress	{"fraction":0.9040767386091125,"message":"Saving files to disk","subMessage":"Saved: 70cc7ff27245e82ad414.ttf"}
+Progress	{"fraction":0.9094058086863841,"message":"Saving files to disk","subMessage":"Saved: 454577c22304619db035.ttf"}
+Progress	{"fraction":0.9147348787636556,"message":"Saving files to disk","subMessage":"Saved: 52ac8f3034507f1d9e53.ttf"}
+Progress	{"fraction":0.9200639488409271,"message":"Saving files to disk","subMessage":"Saved: 05b618077343fbbd92b7.ttf"}
+Progress	{"fraction":0.9253930189181986,"message":"Saving files to disk","subMessage":"Saved: 4bb6ac751d1c5478ff3a.woff2"}
+Progress	{"fraction":0.9307220889954702,"message":"Saving files to disk","subMessage":"Saved: 6155340132a851f6089e.svg"}
+Progress	{"fraction":0.9360511590727416,"message":"Saving files to disk","subMessage":"Saved: 2308ab1944a6bfa5c5b8.svg"}
+Progress	{"fraction":0.9413802291500132,"message":"Saving files to disk","subMessage":"Saved: file-tree-content.html"}
+Progress	{"fraction":0.9467092992272846,"message":"Saving files to disk","subMessage":"Saved: webpage.js"}
+Progress	{"fraction":0.9520383693045562,"message":"Saving files to disk","subMessage":"Saved: graph-wasm.js"}
+Progress	{"fraction":0.9573674393818277,"message":"Saving files to disk","subMessage":"Saved: graph-render-worker.js"}
+Progress	{"fraction":0.9626965094590992,"message":"Saving files to disk","subMessage":"Saved: favicon.png"}
+Progress	{"fraction":0.9680255795363708,"message":"Saving files to disk","subMessage":"Saved: obsidian.css"}
+Progress	{"fraction":0.9733546496136423,"message":"Saving files to disk","subMessage":"Saved: other-plugins.css"}
+Progress	{"fraction":0.9786837196909138,"message":"Saving files to disk","subMessage":"Saved: theme.css"}
+Progress	{"fraction":0.9840127897681853,"message":"Saving files to disk","subMessage":"Saved: global-variable-styles.css"}
+Progress	{"fraction":0.9893418598454569,"message":"Saving files to disk","subMessage":"Saved: supported-plugins.css"}
+Progress	{"fraction":0.9946709299227283,"message":"Saving files to disk","subMessage":"Saved: main-styles.css"}
+Progress	{"fraction":0.9946709299227283,"message":"Saving files to disk","subMessage":"..."}
+Progress	{"fraction":0.9893983567452954,"message":"Saving files to disk","subMessage":"..."}
+Progress	{"fraction":0.9946991783726477,"message":"Saving files to disk","subMessage":"Saved: metadata.json"}
+Progress	{"fraction":0.9894542578433956,"message":"Saving files to disk","subMessage":"..."}
+Progress	{"fraction":0.9947271289216977,"message":"Saving files to disk","subMessage":"Saved: search-index.json"}
+[INFO] 	Closing render window
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: deferred.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: main-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: supported-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: global-variable-styles.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: theme.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: other-plugins.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: obsidian.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: snippets.css"}
+Progress	{"fraction":0,"message":"Compiling css classes","subMessage":"Scanning: mathjax.css"}
+Progress	{"fraction":0,"message":"Filtering classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Sorting classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: theme-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mod-windows"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-hidden-frameless"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: obsidian-app"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: styled-scrollbars"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-inline-title"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-ribbon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: show-view-header"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: css-settings-manager"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-theme"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-default-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-things-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-readable"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-light"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-dark"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-headings"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-frame"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: colorful-active"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-int-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: links-ext-on"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: minimal-folding"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: chart-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: table-100"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: img-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: iframe-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: map-default-width"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-notes-plugin"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: hide-folder-note"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: folder-note-underline-path"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-whitespace-stop-collapsing"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: fn-ignore-attachment-folder"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: version-1-7-2"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-maximized"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-workspace-background-image-custom"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-disableAni"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-header-crumbs"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-Fullstatus-off"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-MObsidian-sbt"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-folder-icon"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-chevron"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-custom-checkbox"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-triangle"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-bulletcallout"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: mini-header-hide"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: CG-NewObsidian-hr"}
+Progress	{"fraction":0,"message":"Collecting valid classes","subMessage":"Scanning: is-focused"}
+Progress	{"fraction":0,"message":"Cleanup classes","subMessage":"..."}
+Progress	{"fraction":0,"message":"Filter duplicate classes","subMessage":"451 classes"}
+Progress	{"fraction":0,"message":"Classes done","subMessage":"..."}
+
+
+Settings:
+{
+  "settingsVersion": "0.0.0",
+  "exportOptions": {
+    "createDocumentContainer": true,
+    "keepModHeaderFooter": false,
+    "addPageIcon": true,
+    "unifyTitleFormat": true,
+    "createPusherElement": true,
+    "makeHeadersTrees": true,
+    "postProcess": true,
+    "displayProgress": true,
+    "inlineHTML": false,
+    "exportPath": "C:\\Users\\jorda\\OneDrive\\Documents\\GitHub\\TTRPGs\\public\\Zack Starfinder",
+    "useFallbackRenderer": false,
+    "addBodyClasses": true,
+    "addMathjaxStyles": true,
+    "addHeadTag": true,
+    "backlinkOptions": {
+      "enabled": false,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".footer",
+        "type": "start"
+      },
+      "displayTitle": "Backlinks"
+    },
+    "tagOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header .data-bar",
+        "type": "end"
+      },
+      "displayTitle": "",
+      "showInlineTags": true,
+      "showFrontmatterTags": true
+    },
+    "aliasOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header .data-bar",
+        "type": "start"
+      },
+      "displayTitle": "Aliases"
+    },
+    "propertiesOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": ".header",
+        "type": "start"
+      },
+      "displayTitle": "Properties"
+    },
+    "fileNavigationOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#left-sidebar-content",
+        "type": "end"
+      },
+      "showCustomIcons": false,
+      "showDefaultFolderIcons": false,
+      "showDefaultFileIcons": false,
+      "defaultFolderIcon": "lucide//folder",
+      "defaultFileIcon": "lucide//file",
+      "defaultMediaIcon": "lucide//file-image",
+      "exposeStartingPath": true,
+      "includePath": "site-lib/html/file-tree.html"
+    },
+    "searchOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#left-sidebar .topbar-content",
+        "type": "start"
+      },
+      "displayTitle": "Search..."
+    },
+    "outlineOptions": {
+      "enabled": false,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar-content",
+        "type": "end"
+      },
+      "displayTitle": "Outline",
+      "startCollapsed": false,
+      "minCollapseDepth": 0
+    },
+    "themeToggleOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar .topbar-content",
+        "type": "start"
+      },
+      "displayTitle": ""
+    },
+    "graphViewOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "#right-sidebar-content",
+        "type": "start"
+      },
+      "displayTitle": "Graph View",
+      "showOrphanNodes": true,
+      "showAttachments": false,
+      "allowGlobalGraph": true,
+      "allowExpand": true,
+      "attractionForce": 1,
+      "linkLength": 15,
+      "repulsionForce": 80,
+      "centralForce": 2,
+      "edgePruning": 100,
+      "minNodeRadius": 3,
+      "maxNodeRadius": 7
+    },
+    "sidebarOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "allowResizing": true,
+      "allowCollapsing": true,
+      "rightDefaultWidth": "20em",
+      "leftDefaultWidth": "20em"
+    },
+    "customHeadOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "featurePlacement": {
+        "selector": "head",
+        "type": "end"
+      },
+      "sourcePath": "",
+      "includePath": "site-lib/html/custom-head.html"
+    },
+    "documentOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "allowFoldingLists": true,
+      "allowFoldingHeadings": true,
+      "documentWidth": "40em"
+    },
+    "rssOptions": {
+      "enabled": false,
+      "unavailable": false,
+      "hideSettingsButton": false,
+      "siteUrl": "",
+      "authorName": ""
+    },
+    "linkPreviewOptions": {
+      "enabled": true,
+      "unavailable": false,
+      "hideSettingsButton": true
+    },
+    "relativeHeaderLinks": false,
+    "includeJS": true,
+    "includeCSS": true,
+    "inlineMedia": false,
+    "inlineCSS": false,
+    "inlineJS": false,
+    "inlineFonts": false,
+    "inlineOther": false,
+    "combineAsSingleFile": false,
+    "offlineResources": true,
+    "themeName": "Cyber Glow",
+    "slugifyPaths": true,
+    "flattenExportPaths": false,
+    "fixLinks": true,
+    "faviconPath": "",
+    "siteName": "Zack Starfinder",
+    "iconEmojiStyle": "Twemoji",
+    "exportRoot": "",
+    "includePluginCss": [
+      "source-plugin-callout-manager-stylesheet",
+      "callout-manager",
+      "rainbow-colored-sidebar",
+      "folder-notes"
+    ],
+    "includeStyleCssIds": [
+      "source-plugin-callout-manager-stylesheet"
+    ],
+    "autoDisposeWebpages": true
+  },
+  "logLevel": "warning",
+  "titleProperty": "title",
+  "rssDateProperty": "date",
+  "onlyExportModified": true,
+  "deleteOldFiles": true,
+  "exportPreset": "online",
+  "openAfterExport": false,
+  "filePickerBlacklist": [
+    "(^|\\/)node_modules\\/",
+    "(^|\\/)dist\\/",
+    "(^|\\/)dist-ssr\\/",
+    "(^|\\/)\\.vscode\\/"
+  ],
+  "filePickerWhitelist": [
+    "\\.\\w+$"
+  ]
+}
+
+Enabled Plugins:
+	Waypoint
+	Vantage - Advanced search builder
+	Style Settings
+	Sort & Permute lines
+	Replace All
+	Natural Language Dates
+	Minimal Theme Settings
+	Folder notes
+	Emoji Shortcodes
+	Docxer
+	Callout Manager
+	Rainbow-Colored Sidebar
+	Settings Search
+	Webpage HTML Export
