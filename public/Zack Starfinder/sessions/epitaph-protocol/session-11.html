@@ -1,0 +1,700 @@
+<!DOCTYPE html> <html lang="en"><head>
+<title>Session 11</title>
+<base href="../..">
+<meta name="pathname" content="sessions/epitaph-protocol/session-11.html">
+<meta name="description" content="Zack Starfinder - Session 11">
+<meta property="og:title" content="Session 11">
+<meta property="og:description" content="Zack Starfinder - Session 11">
+<meta property="og:type" content="website">
+<meta property="og:url" content="sessions/epitaph-protocol/session-11.html">
+<meta property="og:image" content="undefined">
+<meta charset="UTF-8"><meta property="og:site_name" content="Zack Starfinder"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0"><script async="" id="webpage-script" src="site-lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="site-lib/media/favicon.png"><link rel="stylesheet" href="site-lib/styles/obsidian.css"><link rel="preload" href="site-lib/styles/other-plugins.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="site-lib/styles/other-plugins.css"></noscript><link rel="stylesheet" href="site-lib/styles/theme.css"><link rel="preload" href="site-lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="site-lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="site-lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="site-lib/styles/main-styles.css"></noscript><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-vertical-spacing:1.3em;--sidebar-margin:12px}:root{background-color:#202124}.sidebar{height:100%;font-size:14px;z-index:10;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));position:relative;overflow:hidden;overflow:clip;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}#left-sidebar{left:0}#right-sidebar{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}.sidebar.floating{position:absolute}.sidebar .leaf-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .leaf-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}#left-sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}#right-sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar #left-sidebar-content,.sidebar #right-sidebar-content{contain:none!important;container-type:normal!important;animation:none!important}.sidebar:has(.leaf-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:calc(2.3em + 2 * var(--sidebar-margin));width:var(--sidebar-width);padding:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}#left-sidebar .sidebar-topbar{left:0;flex-direction:row;border-top-right-radius:var(--radius-l)}#right-sidebar .sidebar-topbar{right:0;flex-direction:row-reverse;border-top-left-radius:var(--radius-l)}#left-sidebar .topbar-content{margin-right:calc(2.3em + var(--sidebar-margin));flex-direction:row}#right-sidebar .topbar-content{margin-left:calc(2.3em + var(--sidebar-margin));flex-direction:row-reverse}.topbar-content{overflow:hidden visible;overflow:clip visible;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:2px!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}#left-sidebar .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}#right-sidebar .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.feature-title{margin-left:1px;text-transform:uppercase;letter-spacing:.06em;margin-top:.75em;margin-bottom:.75em}.feature-header{display:flex;align-items:center;padding-top:0;font-size:1em;padding-left:0}body.floating-sidebars .sidebar{position:absolute}body{transition:background-color var(--color-fade-speed) ease-in-out}#navbar:not(:empty){display:flex;align-items:center;justify-content:space-between;padding:.5em 1em;width:100%}#main{display:flex;flex-direction:column;height:100%;width:100%;align-items:stretch;justify-content:center}#main-horizontal{display:flex;flex-direction:row;flex-grow:1;width:100%;align-items:stretch;justify-content:center}#center-content{flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0!important;transition:opacity .2s ease-in-out;pointer-events:none}#center-content>.obsidian-document{padding-left:2em;padding-right:1em;margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}body #center-content>.obsidian-document>.markdown-preview-sizer{padding-bottom:80vh;width:100%;max-width:var(--line-width);flex-basis:var(--line-width);transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}#center-content>.obsidian-document>div{width:100%!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}#center-content>.obsidian-document:not([data-type=markdown]).embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}#center-content>.obsidian-document:not([data-type=markdown]).embed>*{max-width:100%;max-height:100%;object-fit:contain}:not(h1,h2,h3,h4,h5,h6,li):has(> :is(.math,table)){overflow-x:auto!important}#center-content>.obsidian-document:not([data-type=markdown]){overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.obsidian-document[data-type=attachment]{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;width:100%}.obsidian-document[data-type=attachment]>*{outline:0;border:none;box-shadow:none}.obsidian-document[data-type=attachment] :is(img){max-width:90%;max-height:90%;object-fit:contain}.obsidian-document[data-type=attachment]>:is(audio){width:100%;max-width:min(90%,var(--line-width))}.obsidian-document[data-type=attachment]>:is(embed,iframe,video){width:100%;height:100%;max-width:100%;max-height:100%;object-fit:contain}.canvas-wrapper>:is(.header,.footer){z-index:100;position:absolute;display:flex;justify-content:center;flex-direction:column;width:100%;align-items:center}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){let e=document.querySelectorAll("link[itemprop='include']");for(const t of e){let e=t.getAttribute("href");try{let o="";if(e.startsWith("https:")||e.startsWith("http:")||"file:"!=window.location.protocol){const n=await fetch(e);if(!n.ok){console.log("Could not include file: "+e),t?.remove();continue}o=await n.text()}else{const t=document.getElementById(btoa(encodeURI(e)));if(t){const e=JSON.parse(decodeURI(atob(t.getAttribute("value")??"")));o=e?.data??""}}let n=document.createRange().createContextualFragment(o);t.before(n),t.remove(),console.log("Included text: "+o),console.log("Included file: "+e)}catch(o){t?.remove(),console.log("Could not include file: "+e,o);continue}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script")));!function e(n){let l=o[n],c=n+1;l?(l&&"true"!=l.getAttribute("loaded")||n<o.length&&e(c),n<o.length&&l.addEventListener("load",(()=>e(c)))):n<o.length?e(c):t()}(0)}</script></head><body class="publish css-settings-manager styled-scrollbars is-focused show-inline-title show-ribbon hide-folder-note folder-note-underline fn-ignore-attachment-folder"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="parsed-feature-container" style="display: contents;"><link itemprop="include" href="site-lib/html/custom-head-content-content.html"></div><div id="main"><div id="navbar"></div><div id="main-horizontal"><div id="left-content" class="leaf" style="--sidebar-width: var(--sidebar-width-left);"><div id="left-sidebar" class="sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><div id="search-container"><div id="search-wrapper"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div aria-label="Clear search" id="search-clear-button"></div></div></div></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content-wrapper"><div id="left-sidebar-content" class="leaf-content"><link itemprop="include" href="site-lib/html/file-tree-content.html"></div></div><script defer="">let ls = document.querySelector("#left-sidebar"); ls.classList.toggle("is-collapsed", window.innerWidth < 768); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div></div><div id="center-content" class="leaf"><div class="obsidian-document markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings allow-fold-lists show-indentation-guide show-properties" data-type="markdown"><style id="MJX-CHTML-styles"></style><pre class="frontmatter language-yaml" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token datetime number">2026-02-05</span></code><button class="copy-code-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-copy"><rect x="8" y="8" width="14" height="14" rx="2" ry="2"></rect><path d="M4 16c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2h10c1.1 0 2 .9 2 2"></path></svg></button></pre><div class="markdown-preview-sizer markdown-preview-section"><div class="header"><h1 class="page-title heading inline-title" id="Session_11_0">Session 11</h1><div class="data-bar"></div></div><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="el-p"><p dir="auto">Prev: <a data-href="Session 10" href="sessions/epitaph-protocol/session-10.html" class="internal-link" target="_self" rel="noopener nofollow">Session 10</a><br>
+Next: <a data-href="Session 12" href="sessions/epitaph-protocol/session-12.html" class="internal-link" target="_self" rel="noopener nofollow">Session 12</a></p></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>New words
+<ul class="has-list-bullet">
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Also we’re getting different amts of credits</li>
+</ul>
+</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Ship <a data-href="The Blue Angel" href="places/ship/the-blue-angel.html" class="internal-link" target="_self" rel="noopener nofollow">The Blue Angel</a>
+<ul class="has-list-bullet">
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Recall knowledges on the box</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26 - occultism
+<ul class="has-list-bullet">
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Discovers that it has a soul, a big one, tho its the size of 3 normal humanoid souls</li>
+</ul>
+</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>ASPER - religion
+<ul class="has-list-bullet">
+<li data-line="7" dir="auto"><span class="list-bullet"></span>These sorts of fragments were in various knowledge vaults, some in shifting caverns of the vaults, <a data-href="Data-Temples" href="misc/data-temples.html" class="internal-link" target="_self" rel="noopener nofollow">Data-Temples</a></li>
+</ul>
+</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Almado - corporate lore
+<ul class="has-list-bullet">
+<li data-line="9" dir="auto"><span class="list-bullet"></span>This thing seems to generate profit innately. If you hold your phone closer, if u move it away it slowly dips down. If it didnt disappear before u bought something u could buy thing fraudulently</li>
+</ul>
+</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Ripley - esoteric lore
+<ul class="has-list-bullet">
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Hes seen one before, but very alien and no hard connection there. Undeniable feeling that he and others have seen it before, but in a different version</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Slowly drift into <a data-href="Aetherion Corporation" href="misc/groups/empires-and-confederations/aetherion-corporation.html" class="internal-link" target="_self" rel="noopener nofollow">Aetherion Corporation</a> space
+<ul class="has-list-bullet">
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Nivaya takes over?</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Break room w ripley
+<ul class="has-list-bullet">
+<li data-line="15" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: talk for a moment?
+<ul class="has-list-bullet">
+<li data-line="16" dir="auto"><span class="list-bullet"></span>R: yeah</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>R: wtf man</li>
+</ul>
+</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i… there’s a lot you deserve to know that i havent been telling you. And im sorry. Ive actually been lying for a long time, u dont deserve that. If u let me explain ill tell u the truth
+<ul class="has-list-bullet">
+<li data-line="19" dir="auto"><span class="list-bullet"></span>R: i’m listening.</li>
+</ul>
+</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i’m not the real nivaya camacho. I havent been- well ive never been. After he died years ago, i shapeshifted into him and took over his identity. I didnt tell u be i was scared ud rat me out, but as ive grown to know and love u, u wouldnt have done anything. I was a coward, too scared. But im done running. Ask me anything, ill tell you everything right here and now
+<ul class="has-list-bullet">
+<li data-line="21" dir="auto"><span class="list-bullet"></span>R: when did he die?</li>
+</ul>
+</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: years ago.
+<ul class="has-list-bullet">
+<li data-line="23" dir="auto"><span class="list-bullet"></span>R: like…</li>
+</ul>
+</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: end of sophomore year, into junior year
+<ul class="has-list-bullet">
+<li data-line="25" dir="auto"><span class="list-bullet"></span>R: why did you take his identity?</li>
+</ul>
+</li>
+<li data-line="26" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i. Convinced myself that it was a sense of respect. He was very important to me. I told myself it was bc his life was too short, but i was jealous. He had everything, but he never learned how to eat form the silver spoon. He had no goal that werent forced onto him. I loved him. Love him. But i wanted what he had. He was all i had back then
+<ul class="has-list-bullet">
+<li data-line="27" dir="auto"><span class="list-bullet"></span>R: who are you?</li>
+</ul>
+</li>
+<li data-line="28" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: my name is Zmenamir. Im an astrazoan. I spent most of my life on <a data-href="Ksate" href="places/ksate/ksate.html" class="internal-link" target="_self" rel="noopener nofollow">Ksate</a>. Ima scientist. I have goals, things i want to achieve. And im selfish. Im a coward. I understand if you cant accept me, i know its a lot, but u deserve to know the truth. The real truth.
+<ul class="has-list-bullet">
+<li data-line="29" dir="auto"><span class="list-bullet"></span>R: the entire time we’ve been- whatever this is, has this been you?</li>
+</ul>
+</li>
+<li data-line="30" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: yes. <a data-tooltip-position="top" aria-label="Nivaya Camacho" data-href="Nivaya Camacho" href="npcs/epitaph-protocol-npcs/nivaya-camacho.html" class="internal-link" target="_self" rel="noopener nofollow">Nivaya</a>, he… he was my boyfriend. U remember the ex?
+<ul class="has-list-bullet">
+<li data-line="31" dir="auto"><span class="list-bullet"></span>R: i do</li>
+</ul>
+</li>
+<li data-line="32" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: that was him. Or that was me? I wasnt dealing w the breakup, i was dealing w his death
+<ul class="has-list-bullet">
+<li data-line="33" dir="auto"><span class="list-bullet"></span>R: ok…</li>
+</ul>
+</li>
+<li data-line="34" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: im really sorry. I cant apologize enough for not being truthful
+<ul class="has-list-bullet">
+<li data-line="35" dir="auto"><span class="list-bullet"></span>R: do you know my name?</li>
+</ul>
+</li>
+<li data-line="36" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: of course
+<ul class="has-list-bullet">
+<li data-line="37" dir="auto"><span class="list-bullet"></span>R: whats my name?</li>
+</ul>
+</li>
+<li data-line="38" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: your full name?
+<ul class="has-list-bullet">
+<li data-line="39" dir="auto"><span class="list-bullet"></span>R: yes</li>
+</ul>
+</li>
+<li data-line="40" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: um.. Archibald beaufort ripley. Ive lied abt myself but i didnt lie abt u. Im sorry it wasnt an act. (quiet) What are you thinking?
+<ul class="has-list-bullet">
+<li data-line="41" dir="auto"><span class="list-bullet"></span>R: i dont know.</li>
+</ul>
+</li>
+<li data-line="42" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: if… if youd prefer if we didnt speak-
+<ul class="has-list-bullet">
+<li data-line="43" dir="auto"><span class="list-bullet"></span>R: no i dont think i could handle that</li>
+</ul>
+</li>
+<li data-line="44" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: anything else u want to know?
+<ul class="has-list-bullet">
+<li data-line="45" dir="auto"><span class="list-bullet"></span>R: how did he die?</li>
+</ul>
+</li>
+<li data-line="46" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: idk. I found him, it looked like an accident, but i- i buried him, i couldnt just leave him like that
+<ul class="has-list-bullet">
+<li data-line="47" dir="auto"><span class="list-bullet"></span>R: where was that? How did you know him?</li>
+</ul>
+</li>
+<li data-line="48" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: on campus. You know the <a data-href="Conaldo River" href="places/ksate/conaldo-river.html" class="internal-link" target="_self" rel="noopener nofollow">Conaldo River</a>? He used to go there to clear his mind, we’d have dates over there. I think he slipped, i hadnt talked to him before that
+<ul class="has-list-bullet">
+<li data-line="49" dir="auto"><span class="list-bullet"></span>R: do his parents know?</li>
+</ul>
+</li>
+<li data-line="50" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: no.
+<ul class="has-list-bullet">
+<li data-line="51" dir="auto"><span class="list-bullet"></span>R: good.</li>
+</ul>
+</li>
+<li data-line="52" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: its why i cant go back, theyd kill me
+<ul class="has-list-bullet">
+<li data-line="53" dir="auto"><span class="list-bullet"></span>R: they dont deserve to know</li>
+</ul>
+</li>
+<li data-line="54" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: its why i cut them off. Idk if he couldve done it. They always fought. I shoudlve told u sooner, i never felt there was a good time
+<ul class="has-list-bullet">
+<li data-line="55" dir="auto"><span class="list-bullet"></span>R: im not leaving, ive invested too much of my life into you</li>
+</ul>
+</li>
+<li data-line="56" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: good thing?
+<ul class="has-list-bullet">
+<li data-line="57" dir="auto"><span class="list-bullet"></span>R: yes? Idk?</li>
+</ul>
+</li>
+<li data-line="58" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: im not… nivaya was a good person. He was a great person. He was kind, charismatic, beautiful. Im not those things. Im selfish, a coward, im not as beautiful as he was. I hope that you could accept that. Ive tried to be more like him, i wish iw as more like him, but im still just me
+<ul class="has-list-bullet">
+<li data-line="59" dir="auto"><span class="list-bullet"></span>R: these last few years ive had with you, with nivaya… i… wondered why he seemed so much more free and willing to do things he mightve not done before. And it- i fell in love with you idiot. And youre not even him… but you are-</li>
+</ul>
+</li>
+<li data-line="60" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i love you too. If this means anything
+<ul class="has-list-bullet">
+<li data-line="61" dir="auto"><span class="list-bullet"></span>R: it does. It does.</li>
+</ul>
+</li>
+<li data-line="62" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: if theres anything i can do to make it easier…
+<ul class="has-list-bullet">
+<li data-line="63" dir="auto"><span class="list-bullet"></span>R: just promise to be more honest in the future?</li>
+</ul>
+</li>
+<li data-line="64" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: no lies
+<ul class="has-list-bullet">
+<li data-line="65" dir="auto"><span class="list-bullet"></span>R: no lies.</li>
+</ul>
+</li>
+<li data-line="66" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i trust you
+<ul class="has-list-bullet">
+<li data-line="67" dir="auto"><span class="list-bullet"></span>R: i trust you too. Id trust you with my life. Ik in my heart you are… you say you are selfish and not a good person, i dont believe that ik theres smth in you that is good. And… i dont understand why u took over, but i do understand why u did it</li>
+</ul>
+</li>
+<li data-line="68" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>n: ill try to live up to that. Sometimes i regret it. But i… there are only but so many options. As awful as that sounds. If they found him- when they found him. If i buried him, it’d only- his parents didnt like me. I wasnt gonna leave him in the river.
+<ul class="has-list-bullet">
+<li data-line="69" dir="auto"><span class="list-bullet"></span>R: oh my god.</li>
+</ul>
+</li>
+<li data-line="70" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: if they found out theyd think that i killed him.
+<ul class="has-list-bullet">
+<li data-line="71" dir="auto"><span class="list-bullet"></span>R: i wouldve also thought that. So that was- yours were your memories i had?</li>
+</ul>
+</li>
+<li data-line="72" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: which?
+<ul class="has-list-bullet">
+<li data-line="73" dir="auto"><span class="list-bullet"></span>R: when we were in that place with the spiders. I- did you touch the webs?</li>
+</ul>
+</li>
+<li data-line="74" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: no?
+<ul class="has-list-bullet">
+<li data-line="75" dir="auto"><span class="list-bullet"></span>R: um. I got flashes of… memories that i never had. Flashes that i had of dates w nivaya that ig you had? The first was… him. In the river.</li>
+</ul>
+</li>
+<li data-line="76" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: im sorry.
+<ul class="has-list-bullet">
+<li data-line="77" dir="auto"><span class="list-bullet"></span>R: it- i dont hate you. I wanna be clear. I understand why u did it even if i dont, but i dont hate u.</li>
+</ul>
+</li>
+<li data-line="78" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: thank you
+<ul class="has-list-bullet">
+<li data-line="79" dir="auto"><span class="list-bullet"></span>R: i want you to be able tot rust me and the others on the ship. Even tho xep shot me in the knee, i… maybe im an idiot, but i trust them as well. Maybe im too trusting, maybe i need to get hit in the head so i dont put my trust everywhere, but ik that isnt you.</li>
+<li data-line="80" dir="auto"><span class="list-bullet"></span>R: we need to figure out a way- im not gonna maek you tell them abt everything, but i… we’re stuck with them for a while. And being open with them is the best way to get through this</li>
+</ul>
+</li>
+<li data-line="81" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: youre right. I trust you, and if you trust them, then i can try. My trust hasnt worked out for me in the past, so tis been difficult. You saw that lab. You saw what happens to us.
+<ul class="has-list-bullet">
+<li data-line="82" dir="auto"><span class="list-bullet"></span>R: i thought u had some fuck shit in your pockets</li>
+</ul>
+</li>
+<li data-line="83" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: no.. just me. To some im just me, and to others im a test subject. Smth to be feared, killed, or worse. So its difficult to put myself in a new position of trust. But i trust you.
+<ul class="has-list-bullet">
+<li data-line="84" dir="auto"><span class="list-bullet"></span>R: trust me when i say these ppl arent out for your worst interests. Except watch out for almado</li>
+</ul>
+</li>
+<li data-line="85" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i didnt appreciate the way he handled the body. I couldnt say anything-
+<ul class="has-list-bullet">
+<li data-line="86" dir="auto"><span class="list-bullet"></span>R: glad i didnt say anything after the test subject thing</li>
+</ul>
+</li>
+<li data-line="87" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: i have one last thing to apologize for and 1 more act of trust for you. First, when we were in that cave, um… with the creatures taking over bodies, im sorry i didnt say anything when they called u a necrophiliac
+<ul class="has-list-bullet">
+<li data-line="88" dir="auto"><span class="list-bullet"></span>R: oh my god. Thats why???</li>
+</ul>
+</li>
+<li data-line="89" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: yeah. I didnt mean for them to bring up your <a data-tooltip-position="top" aria-label="Florian Ripley" data-href="Florian Ripley" href="npcs/epitaph-protocol-npcs/florian-ripley.html" class="internal-link" target="_self" rel="noopener nofollow">dad</a>, i just- couldnt say anything. That mustve been a sensitive subject.
+<ul class="has-list-bullet">
+<li data-line="90" dir="auto"><span class="list-bullet"></span>R: its fine. Its fine.</li>
+</ul>
+</li>
+<li data-line="91" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>N: if…. Im not sure to show the rest of the crew yet, but if ud like to see my true form then i can share that w you.
+<ul class="has-list-bullet">
+<li data-line="92" dir="auto"><span class="list-bullet"></span>R: i need time. But eventually yes</li>
+</ul>
+</li>
+<li data-line="93" dir="auto"><span class="list-bullet"></span>Gives nivaya a datachip w an album on it</li>
+</ul>
+</li>
+<li data-line="94" dir="auto"><span class="list-bullet"></span>Leave the break room</li>
+<li data-line="95" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26 tells asper that they think nivaya is an astrazoan based on what happened on the train
+<ul class="has-list-bullet">
+<li data-line="96" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26: nivayaaaa. Greetings
+<ul class="has-list-bullet">
+<li data-line="97" dir="auto"><span class="list-bullet"></span>N: is smth wrong?</li>
+</ul>
+</li>
+<li data-line="98" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26: we were discussing and pondering, we came to a conclusion wrt to the battle with the credicite
+<ul class="has-list-bullet">
+<li data-line="99" dir="auto"><span class="list-bullet"></span>N: i see. I have a feeling i know wahts going on</li>
+</ul>
+</li>
+<li data-line="100" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26: are you perhaps an astrazoan?
+<ul class="has-list-bullet">
+<li data-line="101" dir="auto"><span class="list-bullet"></span>N: yeah… ripley trusts u, so i trust you</li>
+<li data-line="102" dir="auto"><span class="list-bullet"></span>N: its not an easy thing to tell people about</li>
+</ul>
+</li>
+<li data-line="103" dir="auto"><span class="list-bullet"></span>(oftentimes shapechangers have extreme distrust of society)</li>
+<li data-line="104" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>26: we can see how that would happen. We understand, we have been told that contemplatives are disliked, idk why
+<ul class="has-list-bullet">
+<li data-line="105" dir="auto"><span class="list-bullet"></span>N: i would appreciate if the 2 didnt mention outside of our crew? It could put me in a bad spot if this was known</li>
+</ul>
+</li>
+<li data-line="106" dir="auto"><span class="list-bullet"></span>A: i trust that ur not endangering us by not informing others</li>
+<li data-line="107" dir="auto"><span class="list-bullet"></span>Nivaya stays silent</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="108" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Begin to <a data-href="Utsaka" href="places/systems/istitiver-system/utsaka/utsaka.html" class="internal-link" target="_self" rel="noopener nofollow">Utsaka</a>, thru aetherion space over the next couple days
+<ul class="has-list-bullet">
+<li data-line="109" dir="auto"><span class="list-bullet"></span>There is a connector here to <a data-href="Zeldau System" href="places/systems/zeldau-system/zeldau-system.html" class="internal-link" target="_self" rel="noopener nofollow">Zeldau System</a></li>
+<li data-line="110" dir="auto"><span class="list-bullet"></span>Asper wants to know if there have been any cases of androids who got a similar affliction like miku, feels a response from past lives “ask <a data-tooltip-position="top" aria-label="Kalervo Turred" data-href="Kalervo Turred" href="npcs/epitaph-protocol-npcs/kalervo-turred.html" class="internal-link" target="_self" rel="noopener nofollow">turred</a>”</li>
+<li data-line="111" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Asper goes to find turred, almado follows
+<ul class="has-list-bullet">
+<li data-line="112" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“You wish to actually speak to me?”
+<ul class="has-list-bullet">
+<li data-line="113" dir="auto"><span class="list-bullet"></span>As: is that a surprise?</li>
+</ul>
+</li>
+<li data-line="114" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“You normally ignore me on the trip!”
+<ul class="has-list-bullet">
+<li data-line="115" dir="auto"><span class="list-bullet"></span>As: i realized u may know smth abt the affliction hatsune miku has</li>
+</ul>
+</li>
+<li data-line="116" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Ik what uve told me.”
+<ul class="has-list-bullet">
+<li data-line="117" dir="auto"><span class="list-bullet"></span>As: Please recount it to me</li>
+</ul>
+</li>
+<li data-line="118" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I know it means the death of an android, a <a data-tooltip-position="top" aria-label="Renewal" data-href="Renewal" href="misc/renewal.html" class="internal-link" target="_self" rel="noopener nofollow">recycling</a> of their life”
+<ul class="has-list-bullet">
+<li data-line="119" dir="auto"><span class="list-bullet"></span>As: I hadn’t explained that I think</li>
+</ul>
+</li>
+<li data-line="120" dir="auto"><span class="list-bullet"></span>He hits his head, down 1 hp</li>
+<li data-line="121" dir="auto"><span class="list-bullet"></span>Transfers over 1 hp</li>
+<li data-line="122" dir="auto"><span class="list-bullet"></span>“Yeah that! I can see all of the yous, but they’re all wearing different clothes.”</li>
+<li data-line="123" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>His eyes have odd refractions that dont befit his eyeballs thru the light, he has eyes like a bug. But it reflects like thru different lenses, but one has soulsight. Biological apparatus that is made to mimic truesight
+<ul class="has-list-bullet">
+<li data-line="124" dir="auto"><span class="list-bullet"></span>As: thats so interesting i didn’t know you could do that</li>
+</ul>
+</li>
+<li data-line="125" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“They’re right here
+<ul class="has-list-bullet">
+<li data-line="126" dir="auto"><span class="list-bullet"></span>As: I can’t see them</li>
+</ul>
+</li>
+<li data-line="127" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“They’re you. A continuation of you.
+<ul class="has-list-bullet">
+<li data-line="128" dir="auto"><span class="list-bullet"></span>As: its the same body but not the same person</li>
+</ul>
+</li>
+<li data-line="129" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Are we not defined by the bodies we inhabit?”
+<ul class="has-list-bullet">
+<li data-line="130" dir="auto"><span class="list-bullet"></span>A: do you see situations with others in the crew?</li>
+</ul>
+</li>
+<li data-line="131" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“No. There’s the souls that haunt <a data-tooltip-position="top" aria-label="Voz Ricander" data-href="Voz Ricander" href="npcs/epitaph-protocol-npcs/voz-ricander.html" class="internal-link" target="_self" rel="noopener nofollow">Voz</a> but other than that you’re the one with the most souls
+<ul class="has-list-bullet">
+<li data-line="132" dir="auto"><span class="list-bullet"></span>A: the souls that haunt voz?</li>
+</ul>
+</li>
+<li data-line="133" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“He has only one, you have many
+<ul class="has-list-bullet">
+<li data-line="134" dir="auto"><span class="list-bullet"></span>A: I do not know what that means much but you do not see anything strange with our crew?</li>
+</ul>
+</li>
+<li data-line="135" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Ask Voz, he knows
+<ul class="has-list-bullet">
+<li data-line="136" dir="auto"><span class="list-bullet"></span>Holding something back</li>
+<li data-line="137" dir="auto"><span class="list-bullet"></span>As: I will take your word for it</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="138" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Turns to talk to Voz
+<ul class="has-list-bullet">
+<li data-line="139" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“You need something Asper?
+<ul class="has-list-bullet">
+<li data-line="140" dir="auto"><span class="list-bullet"></span>A: are you being haunted?</li>
+</ul>
+</li>
+<li data-line="141" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Naturally, I killed many
+<ul class="has-list-bullet">
+<li data-line="142" dir="auto"><span class="list-bullet"></span>As: I mean in the literal sense</li>
+</ul>
+</li>
+<li data-line="143" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Naturally, one is bound to stick
+<ul class="has-list-bullet">
+<li data-line="144" dir="auto"><span class="list-bullet"></span>A: Are you aware of this soul and who it may belong to?</li>
+<li data-line="145" dir="auto"><span class="list-bullet"></span>Elves have a soul that travels faster than the speed of light when it dies. Possible for a copilot to get stuck to him during a crash</li>
+<li data-line="146" dir="auto"><span class="list-bullet"></span>Elves are solitary cause if you die near someone you could get stuck</li>
+</ul>
+</li>
+<li data-line="147" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“It’s a good friend who doesn’t want to be mentioned. It won’t affect operational efficiency
+<ul class="has-list-bullet">
+<li data-line="148" dir="auto"><span class="list-bullet"></span>A: i trust you know your skills and limits. If you want to talk i’ll be onboard</li>
+</ul>
+</li>
+<li data-line="149" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Thank you but it won’t be necessary
+<ul class="has-list-bullet">
+<li data-line="150" dir="auto"><span class="list-bullet"></span>A: i know he’s your friend but if you ever wish to be rid of him I can assist</li>
+</ul>
+</li>
+<li data-line="151" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I think the necessary parts have moved on. All i have left is reminiscent. It’s so easy to forget isn’t it asper?
+<ul class="has-list-bullet">
+<li data-line="152" dir="auto"><span class="list-bullet"></span>As: yes. I am one who has very few memories of their past</li>
+</ul>
+</li>
+<li data-line="153" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“You should be able to last 1-1000 years. Theoretically, 300 years is the max time you’ve been around
+<ul class="has-list-bullet">
+<li data-line="154" dir="auto"><span class="list-bullet"></span>As: i am unsure how much this body has left</li>
+</ul>
+</li>
+<li data-line="155" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“15 minimum, assuming you can endure the strain. After 10 will get hard
+<ul class="has-list-bullet">
+<li data-line="156" dir="auto"><span class="list-bullet"></span>As: it is my body and i am happy with it for now. I will hold onto it as long as I can</li>
+</ul>
+</li>
+<li data-line="157" dir="auto"><span class="list-bullet"></span>“It’s a good body. Well made. But don’t hold onto it for too long.”</li>
+</ul>
+</li>
+<li data-line="158" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>At some point, voz corners nivaya
+<ul class="has-list-bullet">
+<li data-line="159" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Who did you confess to so i can admit it to them?”
+<ul class="has-list-bullet">
+<li data-line="160" dir="auto"><span class="list-bullet"></span>N: ripley. Asper. 26</li>
+</ul>
+</li>
+<li data-line="161" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Good. try to hide your dna better next time.”
+<ul class="has-list-bullet">
+<li data-line="162" dir="auto"><span class="list-bullet"></span>N: i understand.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="163" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>See the dock boys ready to penny and dime us, almado remembers doing this when he was abt 10
+<ul class="has-list-bullet">
+<li data-line="164" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Almado wracks his gun, u gotta unload for free or else i’ll report you to aether corp
+<ul class="has-list-bullet">
+<li data-line="165" dir="auto"><span class="list-bullet"></span>Al: we wont be tipping</li>
+</ul>
+</li>
+<li data-line="166" dir="auto"><span class="list-bullet"></span>“Understood…”</li>
+<li data-line="167" dir="auto"><span class="list-bullet"></span>Goes quickly from the cargo area, they ask us to move the vehicle to vip section in the <a data-href="MUSE Plaza" href="places/systems/istitiver-system/utsaka/muse-plaza.html" class="internal-link" target="_self" rel="noopener nofollow">MUSE Plaza</a></li>
+<li data-line="168" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Almado begs asper to not let him die
+<ul class="has-list-bullet">
+<li data-line="169" dir="auto"><span class="list-bullet"></span>26: consider this. A tribulation from the heavens. Should you endure this, you’ll grow stronger, then your path was destined to end here</li>
+<li data-line="170" dir="auto"><span class="list-bullet"></span>R: have u ever- is this legal? What they do to you? Have u looked at your contract?</li>
+<li data-line="171" dir="auto"><span class="list-bullet"></span>Al: its against it to look at it. Its all perfectly legal. They had devils look over it.</li>
+</ul>
+</li>
+<li data-line="172" dir="auto"><span class="list-bullet"></span>Approach, various ppl approach</li>
+<li data-line="173" dir="auto"><span class="list-bullet"></span>3 guards, more armed than almado. They allow almado to pass through</li>
+<li data-line="174" dir="auto"><span class="list-bullet"></span>Turn to asper “youre out of compliance training” asper didnt complete training</li>
+<li data-line="175" dir="auto"><span class="list-bullet"></span>Xep tries to forgery, they have to do it as well</li>
+<li data-line="176" dir="auto"><span class="list-bullet"></span>“Please do it as well.”</li>
+<li data-line="177" dir="auto"><span class="list-bullet"></span>Xep and asper have to do it for 20 hours :(</li>
+<li data-line="178" dir="auto"><span class="list-bullet"></span>Others allowed to wait outside, there are glass areas with fish</li>
+<li data-line="179" dir="auto"><span class="list-bullet"></span>Eventually someone sits alongside</li>
+<li data-line="180" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Are you the people who have been travelling alongside cv01?”
+<ul class="has-list-bullet">
+<li data-line="181" dir="auto"><span class="list-bullet"></span>Yes!</li>
+<li data-line="182" dir="auto"><span class="list-bullet"></span>26: greetings. We are the 26 laws of power</li>
+</ul>
+</li>
+<li data-line="183" dir="auto"><span class="list-bullet"></span>“<a data-href="Sasaki Wataru" href="npcs/epitaph-protocol-npcs/sasaki-wataru.html" class="internal-link" target="_self" rel="noopener nofollow">Sasaki Wataru</a>.”</li>
+<li data-line="184" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I just want to know if miku has been doing well, i consider most of them my children.”
+<ul class="has-list-bullet">
+<li data-line="185" dir="auto"><span class="list-bullet"></span>R: why?</li>
+</ul>
+</li>
+<li data-line="186" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I helped create them”
+<ul class="has-list-bullet">
+<li data-line="187" dir="auto"><span class="list-bullet"></span>R: deadass???</li>
+</ul>
+</li>
+<li data-line="188" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Deadass, yes.”
+<ul class="has-list-bullet">
+<li data-line="189" dir="auto"><span class="list-bullet"></span>26: they have been doing quite well until recently</li>
+</ul>
+</li>
+<li data-line="190" dir="auto"><span class="list-bullet"></span>Ripley infodumps excitement, can i get an autograph</li>
+<li data-line="191" dir="auto"><span class="list-bullet"></span>He gives an autograph, tho looks at the tome while asper and xep are being lectured abt sexual harassment across the galaxies</li>
+</ul>
+</li>
+<li data-line="192" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Other room
+<ul class="has-list-bullet">
+<li data-line="193" dir="auto"><span class="list-bullet"></span>Miku in frozen coffin w <a data-href="Ayla" href="npcs/epitaph-protocol-npcs/ayla.html" class="internal-link" target="_self" rel="noopener nofollow">Ayla</a></li>
+<li data-line="194" dir="auto"><span class="list-bullet"></span>They quickly grab her out, then seal up ayla</li>
+<li data-line="195" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Will you like a complementary disposal of the other body?”
+<ul class="has-list-bullet">
+<li data-line="196" dir="auto"><span class="list-bullet"></span>Al: no there’s still so much we could learn from it. You could have them put back on the ship that i arrived in, thatd be appreciated.</li>
+</ul>
+</li>
+<li data-line="197" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Any of the loading bay boys harass you?”
+<ul class="has-list-bullet">
+<li data-line="198" dir="auto"><span class="list-bullet"></span>Al: no more than expected</li>
+</ul>
+</li>
+<li data-line="199" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“We’ll have them whipped immediately.”
+<ul class="has-list-bullet">
+<li data-line="200" dir="auto"><span class="list-bullet"></span>Al: good. But wait till after they load the ship</li>
+</ul>
+</li>
+<li data-line="201" dir="auto"><span class="list-bullet"></span>“Understood. Tho the whipping might make them do it faster.”</li>
+<li data-line="202" dir="auto"><span class="list-bullet"></span>“We’ll get the torture expert on this.”</li>
+<li data-line="203" dir="auto"><span class="list-bullet"></span>Approached by one of the heads, the head of <a data-href="MUSE" href="misc/groups/muse.html" class="internal-link" target="_self" rel="noopener nofollow">MUSE</a>, <a data-href="Hiroyuki Ito" href="npcs/epitaph-protocol-npcs/hiroyuki-ito.html" class="internal-link" target="_self" rel="noopener nofollow">Hiroyuki Ito</a>. He knows to bow to him</li>
+<li data-line="204" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“How long has this one lasted?”
+<ul class="has-list-bullet">
+<li data-line="205" dir="auto"><span class="list-bullet"></span>Al: (timing ins standard aetherion way)</li>
+</ul>
+</li>
+<li data-line="206" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Good. that makes the upper quadrant. There’s gonna be some new mods to cv01, i hope you understand.”
+<ul class="has-list-bullet">
+<li data-line="207" dir="auto"><span class="list-bullet"></span>Al: of course</li>
+</ul>
+</li>
+<li data-line="208" dir="auto"><span class="list-bullet"></span>“We’re going to be implanting into their heart high grade explosives, should it stop it’ll stop the competition from getting high tech”</li>
+<li data-line="209" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“It came from the board, and im sure u understand if the board gets it itll be done.”
+<ul class="has-list-bullet">
+<li data-line="210" dir="auto"><span class="list-bullet"></span>Al: any other mods i could be briefed on?</li>
+</ul>
+</li>
+<li data-line="211" dir="auto"><span class="list-bullet"></span>“Would you say you bonded with cv01?”</li>
+<li data-line="212" dir="auto"><span class="list-bullet"></span>“Lets do it.”</li>
+<li data-line="213" dir="auto"><span class="list-bullet"></span>Attaches cord back of the neck to brain and to a secondary android that will be swiftly fitted to appear as cv01. Separates 2 chairs into 2 separate rooms. Takes abt an hour</li>
+<li data-line="214" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“The transfer will begin now. The copy is complete. Could you say hi to the mikus?”
+<ul class="has-list-bullet">
+<li data-line="215" dir="auto"><span class="list-bullet"></span>Al: hello hatsune miku the starlight idol</li>
+</ul>
+</li>
+<li data-line="216" dir="auto"><span class="list-bullet"></span>2nd miku: hello!</li>
+<li data-line="217" dir="auto"><span class="list-bullet"></span>Perfectly fine now</li>
+<li data-line="218" dir="auto"><span class="list-bullet"></span>Shutters go down on the first miku. Hears everything the 2nd miku is saying also from the first one as they move her away. Its still alive, they simply transferred the ‘soul or something’ over</li>
+<li data-line="219" dir="auto"><span class="list-bullet"></span>Miku is removed from aspers network</li>
+<li data-line="220" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Please keep talking, it improves the connection.”
+<ul class="has-list-bullet">
+<li data-line="221" dir="auto"><span class="list-bullet"></span>Al: have i told you my theories abt nivaya?</li>
+<li data-line="222" dir="auto"><span class="list-bullet"></span>Al: who do u think is best for MUSE?</li>
+</ul>
+</li>
+<li data-line="223" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>M: ripley has the most musical experience, no?
+<ul class="has-list-bullet">
+<li data-line="224" dir="auto"><span class="list-bullet"></span>Al: hes so exploitable! Like a natural resource!</li>
+</ul>
+</li>
+<li data-line="225" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>M: thats a good thing!
+<ul class="has-list-bullet">
+<li data-line="226" dir="auto"><span class="list-bullet"></span>Al: yes they are!</li>
+</ul>
+</li>
+<li data-line="227" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>(feels like she entered sleep or exited a long sleep)
+<ul class="has-list-bullet">
+<li data-line="228" dir="auto"><span class="list-bullet"></span>Al: and what of asper? Do you.. Feel a connection with asper or xep?</li>
+</ul>
+</li>
+<li data-line="229" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>M: theyre wonderful friends!
+<ul class="has-list-bullet">
+<li data-line="230" dir="auto"><span class="list-bullet"></span>Al: of course. The 26 laws of power?</li>
+</ul>
+</li>
+<li data-line="231" dir="auto"><span class="list-bullet"></span>M: theyre a wonderful person! Miku loves all her friends!</li>
+<li data-line="232" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“This is perfect, sign for this almado?”
+<ul class="has-list-bullet">
+<li data-line="233" dir="auto"><span class="list-bullet"></span>Al: what about the <a data-href="otad gang" href="misc/groups/otad-gang.html" class="internal-link" target="_self" rel="noopener nofollow">otad gang</a>?</li>
+</ul>
+</li>
+<li data-line="234" dir="auto"><span class="list-bullet"></span>M: (recounts them)</li>
+<li data-line="235" dir="auto"><span class="list-bullet"></span>Almado signs as he listens</li>
+<li data-line="236" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>(he’s signing for cv01-3. Upon the removal of cv01-2.)
+<ul class="has-list-bullet">
+<li data-line="237" dir="auto"><span class="list-bullet"></span>Al: i was told id also have my helmet repaired to remain in compliance?</li>
+</ul>
+</li>
+<li data-line="238" dir="auto"><span class="list-bullet"></span>“Naturally, if u could see this doctor?”</li>
+<li data-line="239" dir="auto"><span class="list-bullet"></span>Meets the doctor, skittermander. Looks at him w glee</li>
+<li data-line="240" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“We have a new policy for the helmets. Some said the helmets are to be stitched into the neck, i hope you understand.”
+<ul class="has-list-bullet">
+<li data-line="241" dir="auto"><span class="list-bullet"></span>Al: numbing agents additional charges?</li>
+</ul>
+</li>
+<li data-line="242" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Naturally.”
+<ul class="has-list-bullet">
+<li data-line="243" dir="auto"><span class="list-bullet"></span>Al: ill go without.</li>
+</ul>
+</li>
+<li data-line="244" dir="auto"><span class="list-bullet"></span>(unfiltered face, dirty top, fairly clean bottom, see odd disgraced muddy person. Before skittermander stitches the helmet on. Its worthless element of gold, particularly conductive metal. Do feel almado surely getting shocked for the miku thing, hp goes down.)</li>
+<li data-line="245" dir="auto"><span class="list-bullet"></span>Miku is now shining! Brightlight from 20ft and dim like for another 40ft on top of that</li>
+<li data-line="246" dir="auto"><span class="list-bullet"></span>Man smiles sadly at miku</li>
+<li data-line="247" dir="auto"><span class="list-bullet"></span>“Youll do me proud right?”</li>
+<li data-line="248" dir="auto"><span class="list-bullet"></span>M: of course sir!</li>
+<li data-line="249" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Pats miku on the shoulder, walks back into the offices
+<ul class="has-list-bullet">
+<li data-line="250" dir="auto"><span class="list-bullet"></span>Al: were u just chatting w the professor????</li>
+</ul>
+</li>
+<li data-line="251" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>R: i got his autograph!
+<ul class="has-list-bullet">
+<li data-line="252" dir="auto"><span class="list-bullet"></span>Al: i’ve- paid for advanced tickets to meet him 4 times. Cancelled each time.</li>
+</ul>
+</li>
+<li data-line="253" dir="auto"><span class="list-bullet"></span>26: he was quite nice</li>
+</ul>
+</li>
+<li data-line="254" dir="auto"><span class="list-bullet"></span>Asper and xep get out of training</li>
+<li data-line="255" dir="auto"><span class="list-bullet"></span>Miku doesnt know abt the connection getting broken</li>
+</ul>
+</li>
+<li data-line="256" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Zeldau System
+<ul class="has-list-bullet">
+<li data-line="257" dir="auto"><span class="list-bullet"></span>habitable system, 5 planets fully habitable, 12 + 3 extra dwarf planets that are semi-habitable</li>
+<li data-line="258" dir="auto"><span class="list-bullet"></span><a data-href="Concord of Aedryn" href="misc/groups/empires-and-confederations/concord-of-aedryn.html" class="internal-link" target="_self" rel="noopener nofollow">Concord of Aedryn</a> space</li>
+<li data-line="259" dir="auto"><span class="list-bullet"></span><a data-href="Emmar" href="places/systems/zeldau-system/emmar/emmar.html" class="internal-link" target="_self" rel="noopener nofollow">Emmar</a> is the planet we need to go to for xep, but voz says “she is on <a data-href="Trummar" href="places/systems/zeldau-system/trummar.html" class="internal-link" target="_self" rel="noopener nofollow">Trummar</a>. The doctor we need should we need to revive you should u deal w those things again.”</li>
+<li data-line="260" dir="auto"><span class="list-bullet"></span>“I have a way to contact her but it seems to be encrypted. Xep?”</li>
+<li data-line="261" dir="auto"><span class="list-bullet"></span>Its an SOS. “i am doing a surgery on an odd test subject. Creatures surrounding. Doors are locked. Air tight seal. Oxygen is limited.”</li>
+<li data-line="262" dir="auto"><span class="list-bullet"></span>Odd facility, homestead farm with 2nd story of mansion. Hospital of some kind?</li>
+<li data-line="263" dir="auto"><span class="list-bullet"></span>Approach, voz lowers us down</li>
+<li data-line="264" dir="auto"><span class="list-bullet"></span>“If you wish, i could attempt a bombing run. Itll give away that youre here, but if you dont care abt stealth it could clear out people.”</li>
+<li data-line="265" dir="auto"><span class="list-bullet"></span>He does a bombing run</li>
+<li data-line="266" dir="auto"><span class="list-bullet"></span>Credential area, have to scan chip to enter</li>
+<li data-line="267" dir="auto"><span class="list-bullet"></span>Hear bobbing up and down, add grunting</li>
+<li data-line="268" dir="auto"><span class="list-bullet"></span>Orbian speak????</li>
+<li data-line="269" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“If that broad dont get out, im gonna fuckin shoot her myself.”
+<ul class="has-list-bullet">
+<li data-line="270" dir="auto"><span class="list-bullet"></span>M: theyll shoot them???</li>
+<li data-line="271" dir="auto"><span class="list-bullet"></span>Al: howd u do that w your mouth????</li>
+</ul>
+</li>
+<li data-line="272" dir="auto"><span class="list-bullet"></span>Sentient green orb</li>
+<li data-line="273" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Ahhh the fuck you want???”
+<ul class="has-list-bullet">
+<li data-line="274" dir="auto"><span class="list-bullet"></span>M: they say what the bleep do you want?</li>
+<li data-line="275" dir="auto"><span class="list-bullet"></span>Al: GET ON THE GROUND</li>
+<li data-line="276" dir="auto"><span class="list-bullet"></span>M: kindly get on the ground?</li>
+</ul>
+</li>
+<li data-line="277" dir="auto"><span class="list-bullet"></span>“How abt he gets on the ground, we pick off half of yous and we win”</li>
+<li data-line="278" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Combat
+<ul class="has-list-bullet">
+<li data-line="279" dir="auto"><span class="list-bullet"></span><a data-href="Gonz the Orb" href="npcs/epitaph-protocol-npcs/gonz-the-orb.html" class="internal-link" target="_self" rel="noopener nofollow">Gonz the Orb</a></li>
+<li data-line="280" dir="auto"><span class="list-bullet"></span>Initial targets miku</li>
+<li data-line="281" dir="auto"><span class="list-bullet"></span>2nd targets asper</li>
+<li data-line="282" dir="auto"><span class="list-bullet"></span>@ miku “second to the moonlight idol”</li>
+</ul>
+</li>
+<li data-line="283" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“My employers havent been seen on this world, but they want me to deal with this traitor. If you have power to do this, you could interrupt their lesser operations. Its all in the name almado.”
+<ul class="has-list-bullet">
+<li data-line="284" dir="auto"><span class="list-bullet"></span>X: how do u know almados name?</li>
+</ul>
+</li>
+<li data-line="285" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I know all your names. Im not a floozies one like the purple ones.”
+<ul class="has-list-bullet">
+<li data-line="286" dir="auto"><span class="list-bullet"></span>One of the only facts known about green orbs is they hate purple orbs</li>
+<li data-line="287" dir="auto"><span class="list-bullet"></span>26: who would the employers be? Because their identities may determine the extent of our mercy</li>
+<li data-line="288" dir="auto"><span class="list-bullet"></span>Al: what the superior orb said</li>
+</ul>
+</li>
+<li data-line="289" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“The <a data-href="Vesentis Family" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Vesentis Family</a>.”
+<ul class="has-list-bullet">
+<li data-line="290" dir="auto"><span class="list-bullet"></span>(crime family within the concord of aedryn. Below the <a data-href="Galente Clan" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Galente Clan</a>. The vesentis family took in the orb to do a task, if you let them go, they’ll put in a good word.)</li>
+</ul>
+</li>
+<li data-line="291" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Family put a hit on her, i do the hit. Do you ask questions?”
+<ul class="has-list-bullet">
+<li data-line="292" dir="auto"><span class="list-bullet"></span>X: just a hitman doing a job</li>
+<li data-line="293" dir="auto"><span class="list-bullet"></span>M: miku wants to know why you dont like purple orbs</li>
+</ul>
+</li>
+<li data-line="294" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“You know bubbles?”
+<ul class="has-list-bullet">
+<li data-line="295" dir="auto"><span class="list-bullet"></span>M: of course i do</li>
+</ul>
+</li>
+<li data-line="296" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Bubbles from 1000 years ago or bubbles from now?”
+<ul class="has-list-bullet">
+<li data-line="297" dir="auto"><span class="list-bullet"></span>M: now</li>
+</ul>
+</li>
+<li data-line="298" dir="auto"><span class="list-bullet"></span>“Bubbles from 1000 years ago was an asshole, i shanked him in the street. The one now might be fine, who care.”</li>
+<li data-line="299" dir="auto"><span class="list-bullet"></span>What a conversation</li>
+<li data-line="300" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Open the door
+<ul class="has-list-bullet">
+<li data-line="301" dir="auto"><span class="list-bullet"></span>Woman on the other side breathes a large gasp</li>
+<li data-line="302" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Let me finish, i have at least a day on the research?”
+<ul class="has-list-bullet">
+<li data-line="303" dir="auto"><span class="list-bullet"></span>Al: we have another patient</li>
+</ul>
+</li>
+<li data-line="304" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“How long infected?”
+<ul class="has-list-bullet">
+<li data-line="305" dir="auto"><span class="list-bullet"></span>Al: 40 mins and then cryo</li>
+</ul>
+</li>
+<li data-line="306" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Doable. You have a cryopod?”
+<ul class="has-list-bullet">
+<li data-line="307" dir="auto"><span class="list-bullet"></span>As: ur results?</li>
+</ul>
+</li>
+<li data-line="308" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I have to see your patient.”
+<ul class="has-list-bullet">
+<li data-line="309" dir="auto"><span class="list-bullet"></span>26: why does the vesentis crime family want you dead?</li>
+</ul>
+</li>
+<li data-line="310" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“I killed their son. They wanted a cure for his <a data-href="Nosianc Syndrome" href=".html" class="internal-link" target="_self" rel="noopener nofollow">Nosianc Syndrome</a>, and i provided it.”
+<ul class="has-list-bullet">
+<li data-line="311" dir="auto"><span class="list-bullet"></span>(odd thing that can happen w people. Effectively, there is a mismatch of soul and body, soul tries to leave, another soul cant take place. Comatose states, the only cure is death. She tried to do another thing, it resulted in the death of the heir of a crime family, and thus they wished her dead.)</li>
+</ul>
+</li>
+<li data-line="312" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Ship then? Presuming youre from a ship.”
+<ul class="has-list-bullet">
+<li data-line="313" dir="auto"><span class="list-bullet"></span>Al: anything you need?</li>
+</ul>
+</li>
+<li data-line="314" dir="auto"><span class="list-bullet"></span>Her thing cannot fit on the ship</li>
+</ul>
+</li>
+</ul>
+</li>
+<li data-line="315" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Go to <a data-href="Rusty Curiosity" href="places/ship/rusty-curiosity.html" class="internal-link" target="_self" rel="noopener nofollow">Rusty Curiosity</a>
+<ul class="has-list-bullet">
+<li data-line="316" dir="auto"><span class="list-bullet"></span>She looks at us</li>
+<li data-line="317" dir="auto"><span class="list-bullet"></span><span class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>“Unfreeze her, bring her into the bathroom to clean up, otherwise the surgery will fail.”
+<ul class="has-list-bullet">
+<li data-line="318" dir="auto"><span class="list-bullet"></span>(idea is lead her to washroom, fact that most ppl are uncomfy naked. Watching them take a shower lets u understand wounds they wont admit to. She’ll allow asper into the shower room, but no one else.)</li>
+</ul>
+</li>
+<li data-line="319" dir="auto"><span class="list-bullet"></span>Ayla is confused and wounded</li>
+<li data-line="320" dir="auto"><span class="list-bullet"></span>Asper tries to reassure her</li>
+<li data-line="321" dir="auto"><span class="list-bullet"></span>“I trust you.”</li>
+<li data-line="322" dir="auto"><span class="list-bullet"></span>Doctor <a data-href="Halrex Korr" href="npcs/epitaph-protocol-npcs/halrex-korr.html" class="internal-link" target="_self" rel="noopener nofollow">Halrex Korr</a> “thank you for this. And i deeply apologize.”</li>
+<li data-line="323" dir="auto"><span class="list-bullet"></span>She turns to ayla, pulls out a gun, and shoots her</li>
+</ul>
+</li>
+</ul></div><div class="footer"><div class="data-bar"></div></div></div></div></div><div id="right-content" class="leaf" style="--sidebar-width: var(--sidebar-width-right);"><div id="right-sidebar" class="sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme-toggle-input" id=""><input class="theme-toggle-input" type="checkbox" id="theme-toggle-input"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content-wrapper"><div id="right-sidebar-content" class="leaf-content"></div></div><script defer="">let rs = document.querySelector("#right-sidebar"); rs.classList.toggle("is-collapsed", window.innerWidth < 768); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></div></div></body></html>
